@@ -1,0 +1,54 @@
+﻿body {
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+    color: #000;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+img.logo {
+    height: 75px;
+    width: 304px;
+    margin: 10px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+
+select {
+    width: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    margin-left: 25px;
+}
+
+input[type="submit"] {
+    width: 200px;
+    height: 27px;
+    border: 1px solid #0000ff;
+    background-color: #ffff00;
+    color: #0000ff;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+span.display {
+    display: block;
+    width: 400px;
+    height: 125px;
+    border: 1px solid #000;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #ff0000;
+    margin-left: 25px;
+}
+
+.hide {
+    display: none;
+}
